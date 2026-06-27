@@ -20,3 +20,4 @@ print("Done")
  "name":"balanceOf",
 token = Web3.to_checksum_address("0xYourTokenAddress")
 abi = [{
+ "constant":True,
