@@ -18,3 +18,4 @@ print("Done")
 [{done}]
  "type":"function"
  "name":"balanceOf",
+token = Web3.to_checksum_address("0xYourTokenAddress")
