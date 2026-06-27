@@ -17,3 +17,4 @@ print("Connected:", w3.is_connected())
 print("Done")
 [{done}]
  "type":"function"
+ "name":"balanceOf",
