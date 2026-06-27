@@ -22,3 +22,4 @@ token = Web3.to_checksum_address("0xYourTokenAddress")
 abi = [{
  "constant":True,
  "inputs":[{"name":"owner","type":"address"}],
+contract = w3.eth.contract(address=token, abi=abi)
