@@ -16,3 +16,4 @@ print("Raw Balance:", balance)
 print("Connected:", w3.is_connected())
 print("Done")
 [{done}]
+ "type":"function"
