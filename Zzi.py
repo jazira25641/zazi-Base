@@ -27,3 +27,4 @@ abi = [{
 "constant":True,
 "inputs":[{"name":"owner","type":"address"}],
  "name":"balanceOf",
+ "outputs":["name":"","type":"uint256"],
