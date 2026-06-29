@@ -23,3 +23,4 @@ abi = [{
  "constant":True,
  "inputs":[{"name":"owner","type":"address"}],
 contract = w3.eth.contract(address=token, abi=abi)
+abi = [{
