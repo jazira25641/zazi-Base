@@ -29,3 +29,4 @@ abi = [{
  "name":"balanceOf",
  "outputs":["name":"","type":"uint256"],
 "type":"function"
+}]
