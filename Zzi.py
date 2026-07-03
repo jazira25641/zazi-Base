@@ -49,3 +49,7 @@ forwarderFee: estimate.fees.find((fee) => fee.type ===
 }
 console.log(feeSummary)
 // ​​{
+//   providerFee: "0",
+//   gasFee: "0.0011",
+//   forwarderFee: "0",
+// }
