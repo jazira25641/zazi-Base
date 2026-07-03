@@ -40,3 +40,4 @@ chain: "Arc_Testnet",
    recipientAddress,
   },
 }
+const estimate = await kit.unifiedBalance.estimateSpend(params)
