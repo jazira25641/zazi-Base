@@ -42,3 +42,4 @@ chain: "Arc_Testnet",
 }
 const estimate = await kit.unifiedBalance.estimateSpend(params)
 const feeSummary = {
+ providerFee: estimate.fees.find((fee) => fee.type === "provider")?.amount ?? "0",
