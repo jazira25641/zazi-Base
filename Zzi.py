@@ -47,3 +47,5 @@ const feeSummary = {
 forwarderFee: estimate.fees.find((fee) => fee.type === 
 "forwarder")?.amount ?? "0",
 }
+console.log(feeSummary)
+// ​​{
