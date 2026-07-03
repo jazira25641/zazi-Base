@@ -33,3 +33,4 @@ abi = [{
 const params = {
 amount: "1.00",
 token: "USDC",
+ from: [{ adapter: evmAdapter }, { adapter: solanaAdapter }],
