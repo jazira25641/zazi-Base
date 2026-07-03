@@ -44,3 +44,4 @@ const estimate = await kit.unifiedBalance.estimateSpend(params)
 const feeSummary = {
  providerFee: estimate.fees.find((fee) => fee.type === "provider")?.amount ?? "0",
  gasFee: estimate.fees.find((fee) => fee.type === "gasFee")?.amount ?? "0",
+forwarderFee: estimate.fees.find((fee) => fee.type === 
