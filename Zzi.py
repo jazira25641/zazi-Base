@@ -31,3 +31,4 @@ abi = [{
 "type":"function"
 }]
 const params = {
+amount: "1.00",
