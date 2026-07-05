@@ -62,3 +62,4 @@ return (total * 0.01).toFixed(6) // Example: 1% product fee
  return feePayoutChain.type === "solana"
    ? process.env.SOLANA_FEE_RECIPIENT!
  : process.env.EVM_FEE_RECIPIENT!
+  },
