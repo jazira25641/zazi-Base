@@ -72,3 +72,5 @@ to: {
     adapter: destinationAdapter,
   chain: "Arc_Testnet",
     recipientAddress,
+  },
+})
