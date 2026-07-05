@@ -56,3 +56,4 @@ console.log(feeSummary)
 kit.unifiedBalance.setCustomFeePolicy({
 computeFee: (params) => {
 const total = Number(params.amount)
+return (total * 0.01).toFixed(6) // Example: 1% product fee
