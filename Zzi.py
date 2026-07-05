@@ -54,3 +54,4 @@ console.log(feeSummary)
 //   forwarderFee: "0",
 // }
 kit.unifiedBalance.setCustomFeePolicy({
+computeFee: (params) => {
