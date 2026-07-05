@@ -65,3 +65,4 @@ return (total * 0.01).toFixed(6) // Example: 1% product fee
   },
 })
 const estimate = await kit.unifiedBalance.estimateSpend({
+amount: "100.00",
