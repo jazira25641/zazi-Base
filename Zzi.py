@@ -55,3 +55,4 @@ console.log(feeSummary)
 // }
 kit.unifiedBalance.setCustomFeePolicy({
 computeFee: (params) => {
+const total = Number(params.amount)
