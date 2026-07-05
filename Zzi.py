@@ -53,3 +53,4 @@ console.log(feeSummary)
 //   gasFee: "0.0011",
 //   forwarderFee: "0",
 // }
+kit.unifiedBalance.setCustomFeePolicy({
