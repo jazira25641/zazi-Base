@@ -100,3 +100,4 @@ to: {
     token: "USDC",
     amount: "1.000000",
     allocations: [{ chain: "Arc_Testnet", amount: "1.000000" }],
+    recipientAddress: "<EVM_FEE_RECIPIENT>",
