@@ -97,3 +97,4 @@ to: {
   },
   {
     type: "kit",
+    token: "USDC",
