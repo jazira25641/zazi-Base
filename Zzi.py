@@ -98,3 +98,4 @@ to: {
   {
     type: "kit",
     token: "USDC",
+    amount: "1.000000",
