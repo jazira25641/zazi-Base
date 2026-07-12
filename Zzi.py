@@ -87,3 +87,4 @@ to: {
   },
   {
     type: "gasFee",
+    token: "USDC",
