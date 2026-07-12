@@ -81,3 +81,4 @@ to: {
     amount: "0.004287",
     allocations: [
       { chain: "Sei_Testnet", amount: "0.001294" },
+      { chain: "Avalanche_Fuji", amount: "0.000971" },
