@@ -91,3 +91,4 @@ to: {
     amount: "0.205586",
     allocations: [
       { chain: "Arc_Testnet", amount: "0.0011" },
+      { chain: "Sei_Testnet", amount: "0.001231" },
