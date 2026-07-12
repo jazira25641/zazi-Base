@@ -77,3 +77,4 @@ to: {
 [
 {
     type: "provider",
+    token: "USDC",
