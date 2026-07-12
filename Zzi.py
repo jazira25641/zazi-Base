@@ -89,3 +89,4 @@ to: {
     type: "gasFee",
     token: "USDC",
     amount: "0.205586",
+    allocations: [
