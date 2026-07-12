@@ -83,3 +83,6 @@ to: {
       { chain: "Sei_Testnet", amount: "0.001294" },
       { chain: "Avalanche_Fuji", amount: "0.000971" },
       { chain: "Base_Sepolia", amount: "0.000895" },
+    ],
+  },
+  {
