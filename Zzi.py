@@ -80,3 +80,4 @@ to: {
     token: "USDC",
     amount: "0.004287",
     allocations: [
+      { chain: "Sei_Testnet", amount: "0.001294" },
