@@ -78,3 +78,4 @@ to: {
 {
     type: "provider",
     token: "USDC",
+    amount: "0.004287",
