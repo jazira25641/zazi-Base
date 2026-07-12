@@ -93,3 +93,6 @@ to: {
       { chain: "Arc_Testnet", amount: "0.0011" },
       { chain: "Sei_Testnet", amount: "0.001231" },
       { chain: "Avalanche_Fuji", amount: "0.022098" },
+  ],
+  },
+  {
