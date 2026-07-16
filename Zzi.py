@@ -108,3 +108,4 @@ const delegateConfig = {
   delegateAddress,
 }
 await kit.unifiedBalance.addDelegate(delegateConfig)
+let status = await kit.unifiedBalance.getDelegateStatus(delegateConfig)
