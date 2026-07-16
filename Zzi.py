@@ -106,3 +106,4 @@ to: {
 const delegateConfig = {
   from: { adapter: ownerAdapter, chain: "Ethereum" },
   delegateAddress,
+}
