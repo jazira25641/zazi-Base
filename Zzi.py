@@ -103,3 +103,4 @@ to: {
     recipientAddress: "<EVM_FEE_RECIPIENT>",
   },
 ]
+const delegateConfig = {
