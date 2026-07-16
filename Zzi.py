@@ -107,3 +107,4 @@ const delegateConfig = {
   from: { adapter: ownerAdapter, chain: "Ethereum" },
   delegateAddress,
 }
+await kit.unifiedBalance.addDelegate(delegateConfig)
