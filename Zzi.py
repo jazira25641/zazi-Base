@@ -113,3 +113,4 @@ while (status === "pending") {
   await new Promise((resolve) => setTimeout(resolve, 5_000))
   status = await kit.unifiedBalance.getDelegateStatus(delegateConfig)
 }
+if (status !== "ready") {
