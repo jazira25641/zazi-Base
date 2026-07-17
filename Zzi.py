@@ -118,3 +118,4 @@ if (status !== "ready") {
 }
 KitError:
 {
+  name: "BALANCE_INSUFFICIENT_GAS",
