@@ -122,3 +122,4 @@ KitError:
   code: 9002,
   type: "BALANCE",
   recoverability: "FATAL",
+  message: "Insufficient ETH on Ethereum to cover gas fees",
